@@ -1,9 +1,9 @@
 ﻿namespace System
 open System.Reflection
 
-[<assembly: AssemblyTitleAttribute("FSharp.ProjectTemplate")>]
-[<assembly: AssemblyProductAttribute("FSharp.ProjectTemplate")>]
-[<assembly: AssemblyDescriptionAttribute("A short summary of your project.")>]
+[<assembly: AssemblyTitleAttribute("Kollege")>]
+[<assembly: AssemblyProductAttribute("Kollege")>]
+[<assembly: AssemblyDescriptionAttribute("A eventsourcing sample app")>]
 [<assembly: AssemblyVersionAttribute("1.0")>]
 [<assembly: AssemblyFileVersionAttribute("1.0")>]
 do ()
