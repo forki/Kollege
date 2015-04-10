@@ -42,7 +42,8 @@
     <Reference Include="System.Numerics" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Library1.fs" />
+    <Compile Include="Domain.fs" />
+    <Compile Include="Events.fs" />
     <None Include="Script.fsx" />
   </ItemGroup>
   <PropertyGroup>

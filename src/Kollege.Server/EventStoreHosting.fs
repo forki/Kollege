@@ -45,7 +45,7 @@ module EventStoreFacade =
 //            .WithInternalTcpOn(noIp)
 //            .WithExternalHttpOn(noIp)
 //            .WithInternalHttpOn(noIp) 
-            .NoAdminOnPublicInterface()
+            //.NoAdminOnPublicInterface()
             |> configure  
             |> build
     
