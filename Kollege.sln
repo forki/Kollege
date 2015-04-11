@@ -41,6 +41,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Kollege.Domain", "src\Kolle
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Kollege.Server", "src\Kollege.Server\Kollege.Server.fsproj", "{CECD00E2-3D52-493C-9C71-87BAAFE398DC}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Kollege.Messaging", "src\Kollege.Messaging\Kollege.Messaging.fsproj", "{9B88E034-1BBF-4709-B9A7-092013BD2452}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -67,6 +69,10 @@ Global
 		{CECD00E2-3D52-493C-9C71-87BAAFE398DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CECD00E2-3D52-493C-9C71-87BAAFE398DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CECD00E2-3D52-493C-9C71-87BAAFE398DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B88E034-1BBF-4709-B9A7-092013BD2452}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B88E034-1BBF-4709-B9A7-092013BD2452}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B88E034-1BBF-4709-B9A7-092013BD2452}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B88E034-1BBF-4709-B9A7-092013BD2452}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

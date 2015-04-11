@@ -6,6 +6,7 @@ nuget FSharpVSPowerTools.Core 1.7.0
 nuget NUnit
 nuget NUnit.Runners
 nuget FAKE
+nuget NetMQ
 nuget Serilog
 nuget SourceLink.Fake
 
